@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+header {
+  background-color:rgb(75, 73, 73);
+  height: 20px;
+  padding-bottom: 5px;
+  font-weight: 3000;
+
+}
+
+
+li {
+  display: inline;
+  padding: 100px;
+}
+
+.content {
+  height: 300px;
+  padding-top: 30px;
+}
+
+.bottom {
+  color: #888;
+  padding: 50px;
+}
+
